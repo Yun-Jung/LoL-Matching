@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <title>LOLMatching</title>
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <meta property="og:title" content="">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="">
+	<meta property="og:site_name" content="">
+	<meta property="og:description" content="">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/animate.css">
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900|Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <script src="js/modernizr-2.7.1.js"></script>
+
+
+</head>
+
+<body>
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="logo" href="index.html"><span class="logo-first">LOL</span><span class="logo-last">Matching</span></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#be-the-first" class="scroll">發想</a></li>
+            <li><a href="#second" class="scroll">介面</a></li>
+            <li><a href="#main-info" class="scroll">優點</a></li>
+            <li><a href="#pricing" class="scroll">下載</a></li>
+            <li><a href="#invite" class="scroll">關於我們</a></li>
+          </ul>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+
+    <header>
+      <div class="container">
+        <!--
+        <div class="row">
+          <div class="col-xs-6" style="font-size:20px;">
+            <a class="logo" href="index.html"><span class="logo-first">LOL</span><span class="logo-last">Matching</span></a>
+          </div>
+          <div class="col-xs-6 signin text-right navbar-nav">
+            <a href="#be-the-first" class="scroll"> 發想 </a>&nbsp; &nbsp;<a href="#second" class="scroll"> 介面 </a>&nbsp; &nbsp;<a href="#main-info" class="scroll"> 優點 </a>&nbsp; &nbsp;<a href="#pricing" class="scroll"> 下載 </a>&nbsp; &nbsp;<a href="#invite" class="scroll"> 關於我們 </a>
+          </div>
+        </div>
+      -->
+
+        <div class="header-info">
+          <div class="col-sm-10 col-sm-offset-1 text-center">
+            <h2 class="wow fadeIn display-3">LOLMatching</h2>
+            <p id="sub-header" class="wow fadeIn white display-4" data-wow-delay="0.5s">尋找新戰友，一起爬分。</p>
+            <br />
+            <br>
+            <div >
+              <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+                <div >
+                  <div class="col-xs-6 text-center wow fadeInUp" data-wow-delay="1s">
+                    <a href="#be-the-first" class="btn btn-secondary btn-lg scroll">&nbsp;&nbsp;了解更多&nbsp;&nbsp;</a>
+                  </div>
+                  <div class="col-xs-6 text-center wow fadeInUp" data-wow-delay="1.4s">
+                  <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLScxkHUuN8YxOOIVfXpA4W4_XtyetXGDKLuRECemvxKiL-jQMw/viewform?c=0&w=1"><i class="fa fa-user-plus" aria-hidden="true"></i>接收最新的資訊</a>
+                  </div>
+                </div><!--End Button Row-->
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </header>
+
+
+
+    <section id="be-the-first" class="pad-xl">
+      <div class="container">
+        <div >
+          <div class="col-sm-8 col-sm-offset-2 text-center margin-30 wow fadeIn" data-wow-delay="0.6s">
+            <h2 class="subtitle">發想</h2>
+            <p class="lead">想要爬分，平常的戰友卻不在嗎?</br>想要打NG，卻常常找不人雙排嗎?</br>沒關係，我們聽到你的心聲了!</br><span class="logo-first">LOL</span><span class="logo-last">Matching</span>就是為了幫你找到新戰友而誕生的APP。</br>讓你打LOL不再需要單排，並能交到好戰友。</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <section id="second" class="pad-xl text-center">
+      <div class="container">
+
+        <div class="row justify-content-center">
+           <div class="col col-lg-8">
+             <section class="sec_even">
+               <h2 class="display-3">介面</h2>
+
+               <div class="row flex-sm-row-reverse justify-content-center align-items-center how-sec-div">         
+                 <p class="col-12 col-sm-6 col-md-7 sec_odd">步驟一:<br><br>登入您的garena帳號</p>
+                 <div class="col-12 col-sm-6 col-md-5">
+                   <img class="img-fluid steps" src="img/step1.png">
+                 </div>
+               </div>
+               <div class="row justify-content-center align-items-center how-sec-div">
+                 <p class="col-12 col-sm-6 col-md-7 sec_even">步驟二:<br><br>按下"尋找戰友"</p>
+                  <div class="col-12 col-sm-6 col-md-5">
+                    <img class="img-fluid steps" src="img/step2.png">
+                   </div>
+               </div>
+               <div class="row flex-sm-row-reverse justify-content-center align-items-center how-sec-div">
+                  <p class="col-12 col-sm-6 col-md-7 sec_odd">步驟三:<br><br>選擇想一起爬分的戰友</p>
+                  <div class="col-12 col-sm-6 col-md-5">
+                    <img class="img-fluid steps" src="img/step3.png">
+                   </div>
+               </div>
+               <div class="row justify-content-center align-items-center how-sec-div">
+                 <p class="col-12 col-sm-6 col-md-7 sec_even">步驟四:<br><br>享受爬分的樂趣</p>
+                  <div class="col-12 col-sm-6 col-md-5">
+                    <img class="img-fluid steps" src="img/step4.png">
+                   </div>
+               </div>
+             </section>
+           </div>
+         </div>
+
+
+<!--
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2 text-center margin-30 wow fadeIn" data-wow-delay="0.6s">
+               <h2 class="subtitle">介面</h2>
+
+               <div class="row flex-sm-row-reverse justify-content-center align-items-center how-sec-div">
+                 <div class="col-12 col-sm-6 col-md-5">
+                   <img class="img-fluid" src="img/step1.png">
+                 </div>
+                 <p class="col-12 col-sm-6 col-md-7 step" >步驟一:<br>登入您的garena帳號</p>
+               </div>
+               <div class="row justify-content-center align-items-center how-sec-div">
+                 <p class="col-12 col-sm-6 col-md-7 step">步驟二:<br>按下"尋找戰友"</p>
+                  <div class="col-12 col-sm-6 col-md-5">
+                    <img class="img-fluid" src="img/step2.png">
+                   </div>
+               </div>
+               <div class="row flex-sm-row-reverse justify-content-center align-items-center how-sec-div">
+                  <div class="col-12 col-sm-6 col-md-5">
+                    <img class="img-fluid" src="img/step3.png">
+                   </div>
+                 <p class="col-12 col-sm-6 col-md-7 step ">步驟三:<br>選擇想一起爬分的戰友</p>
+               </div>
+               <div class="row justify-content-center align-items-center how-sec-div">
+                 <p class="col-12 col-sm-6 col-md-7 step">步驟四:<br>享受爬分的樂趣</p>
+                  <div class="col-12 col-sm-6 col-md-5">
+                    <img class="img-fluid" src="img/step4.png">
+                   </div>
+               </div>
+             </section>
+           </div>
+         </div>
+       -->
+       </div>
+    </section>
+
+    <section id="main-info" class="pad-xl">
+	    <div class="container">
+		    <div >
+		        <div class="col-sm-8 col-sm-offset-2 text-center margin-30 wow fadeIn" data-wow-delay="0.6s">
+		        <h2 class="subtitle">優點</h2>
+			    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.4s">
+				    <hr class="line purple">
+				    <h3>找戰友</h3>
+				        <p>場場MVP 還是找不到隊友?!<br>打雙排 朋友都離線?!<br>沒朋友 但不能沒戰友<br>需求選戰友 合作打雙排<br>坦克配戰士 輕鬆砍對手<br>戰士配法師 穩穩洗數據</p>
+				   
+            <!--<img class="img-fluid" src="img/fizz.png">-->
+			    </div>
+			    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.8s">
+				    <hr  class="line blue">
+				    <h3>黑名單</h3>
+				        <p>雷包滿天飛 排位越打越低？<br>總是遇到豬一般的隊友<br>每打必輸？<br>檢舉永遠不成立<br>勝率越來越低？<br>避開黑名單<br>讓你場場逞威風!<br>練等輕鬆升 排位爽爽拿</p>
+				    <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra orci ut est facilisis, eu elementum mi volutpat. Pellentesque ac tristique nisi.</p>-->
+          </div>
+			    <div class="col-sm-4 wow fadeIn" data-wow-delay="1.2s">
+				    <hr  class="line yellow">
+				     <h3>互評制度</h3>
+				        <p>就算打贏了上百場<br>還是像路人一樣沒人崇拜？<br>想成為英雄中的英雄嗎？<br>我們肯定你<br>幫助你成為別人的搶手戰友<br>邀請一個接一個<br>  只怕你太弱 不怕你太紅</p>
+				    <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra orci ut est facilisis, eu elementum mi volutpat. Pellentesque ac tristique nisi.</p>-->
+          </div>
+		    </div>
+	    </div>
+    </section>
+
+
+    <!--Pricing-->
+    <section id="pricing" class="pad-xl text-center">
+      <div class="container">
+        <div class="row margin-40">
+          <div class="col-sm-8 col-sm-offset-2 text-center">
+            <h2 class="subtitle">這是個免費的APP！</h2>
+            <p class="lead">您可以在Apple App Store或者是Google Play商店<br>
+               下載<span class="logo-first">LOL</span><span class="logo-last">Matching</span>，並馬上找到新戰友，享受英雄聯盟的樂趣。<br>
+               試看看吧!交個新戰友。</p>
+          </div>
+        </div>
+        <img class="img-fluid" src="img/card.JPG">
+        <div>
+          <div class="col-sm-8 col-sm-offset-2 text-center">
+            <p class=lead>請幫助我們填一份30秒的問卷，<br>您的回覆將會是我們進步的動力，<br>做為感謝，我們將提供您最新的App資訊。</p>
+            
+          　<a class="btn btn-blue btn-lg qusetionare" href="https://docs.google.com/forms/d/e/1FAIpQLScxkHUuN8YxOOIVfXpA4W4_XtyetXGDKLuRECemvxKiL-jQMw/viewform?c=0&w=1">
+            <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>&nbsp;&nbsp;沒問題，我願意幫忙</a>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section id="invite" class="pad-lg light-gray-bg">
+      <div class="container">
+          <div class="row">
+  		        <div class="col-sm-8 col-sm-offset-2 text-center margin-30 wow fadeIn" data-wow-delay="0.6s">
+  		        <h2 class="subtitle" style="color:black;">關於我們</h2>
+  			    <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
+              <div class="card-deck card0">
+                <div class="card">
+                  <img class="card-img-top img-fluid img-circle" src="img/3.jpg" alt="Card image cap">
+                  <div class="card-block">
+                    <h4 class="card-ititle" style="color: #374140">David Chen</h4>
+                    <p class="card-itext" style="color: #374140">david80531@gmail.com</p>
+                  </div>
+                </div>
+              </div>
+  			    </div>
+  			<div class="col-sm-6 wow fadeIn" data-wow-delay="0.8s">
+              <div class="card">
+                <img class="card-img-top img-fluid img-circle" src="img/2.jpg" alt="Card image cap">
+                <div class="card-block">
+                  <h4 class="card-ititle" style="color: #374140">Yun-Jung Ku</h4>
+                  <p class="card-itext" style="color: #374140">rebecca86420@gmail.com</p>
+                </div>
+              </div>
+            </div>
+  			<div class="col-sm-6 wow fadeIn" data-wow-delay="1.2s">
+              <div class="card">
+                <img class="card-img-top img-fluid img-circle" src="img/1.jpg" alt="Card image cap">
+                <div class="card-block">
+                  <h4 class="card-ititle" style="color: #374140">Chih-Yu Shen</h4>
+                  <p class="card-itext" style="color: #374140">chih5180@gmail.com</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 wow fadeIn" data-wow-delay="1.2s">
+              <div class="card">
+                <img class="card-img-top img-fluid img-circle" src="img/4.JPG" alt="Card image cap">
+                <div class="card-block">
+                  <h4 class="card-ititle" style="color: #374140">Henry Su</h4>
+                  <p class="card-itext" style="color: #374140">cksh10130995@gmail.com</p>
+                </div>
+              </div>
+            </div>
+
+  		    </div>
+  	    </div>
+        <div class="row text-center">
+          <div class="col-sm-12">
+            <p class="lead">有任何意見，都可以寄信到以上信箱聯絡我們 :)</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <p><small> We are students devoting ourselves to software design<br>and trying to make the world better.<small></p>
+            <p><small>LOLMatching &copy; 2017. <br></small></p>
+          </div>
+        </div>
+
+      </div>
+    </footer>
+
+
+    <!-- Javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')</script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+
+
+    </body>
+</html>
