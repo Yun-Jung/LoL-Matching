@@ -9,7 +9,7 @@ It is an App designed for League of Legends' players. You can use this app to fi
 
 ## Screenshot of the App
 
-> This is the demo page for LoL-Matching
+> This is the demo page for LoL-Matching. 
 > If you want the file of LoL-Maching, please e-mail me.
 
 * Step.1
